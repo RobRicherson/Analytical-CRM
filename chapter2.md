@@ -1,33 +1,14 @@
 ---
-title: a
-description: >-
-  undefined
-
-
+title       : This is chapter with video exercise
+description : Yes! This chapter contains a video!
 ---
-## Insert exercise title here
+
+## Video Exercise
 
 ```yaml
-type: NormalExercise
-
-xp: 
-
-key: 63d8d12bde
+type: VideoExercise 
+lang: r
+xp: 50 
+video_link: //player.vimeo.com/video/160339466
+video_hls: //videos.datacamp.com/transcoded/672_intermediate_r/v2/hls-ch1_1.master.m3u8
 ```
-
-``
-
-`@instructions`
-
-
-`@hint`
-
-
-
-
-
-
-
-
-
-
