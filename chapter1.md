@@ -27,7 +27,7 @@ Do some data science.
 
 `@solution`
 ```{r}
-library(tidyverse)
+library(tibble)
 
 
 ```
